@@ -1,0 +1,4 @@
+Configuration,Final G Loss,Final D Loss,FID,Inception Score
+baseline,4.5061,0.2014,315.58,2.42 ± 0.04
+config2_ada,5.6109,0.0554,341.80,2.21 ± 0.02
+config3_resnet,1.6621,0.1760,310.69,3.70 ± 0.08
